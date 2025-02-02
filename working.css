@@ -1,0 +1,65 @@
+.body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    justify-content: center;
+    border: none;
+    font-family: 'Inter'
+    }
+    
+    .container {
+        padding: 20px;
+        height: 100vh;
+        width: 300px;
+        height: 100vh;
+        justify-content: center;
+        background-color: #ADD8E6;
+    }
+    .sp {
+        font-size: 13px;
+    }
+
+    .p {
+        margin-bottom: 6px;
+        padding: 0;
+    }
+    .sc {
+        margin-top: 50px;
+    }
+    .box {
+        width: 300px;
+        height: 30px;
+        border-radius: 10px;
+        text-align: left;
+        border-radius: 5px;
+        font-size: 12px;
+        
+    }
+    .lc {
+        margin-top: 6px;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .bluebox {
+        margin-top: 20px;
+        width: 120px;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+        color: white;
+        background-color: #23434e;
+        border: none;
+        border-radius: 20px;
+        padding: 10px 20px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .bc {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: end;
+        text-align: center;
+
+    }

@@ -1,0 +1,50 @@
+.body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    justify-content: center;
+    border: none;
+    font-family: 'Inter'
+    
+    
+}
+
+.container {
+    width: 300px;
+    height: 100vh;
+    padding: 20px;
+    background-color: #ADD8E6;
+    letter-spacing: 0.1px;
+    font-size: 15px;
+    font-weight: 400;
+    
+
+}
+.notification-symbol {
+    font-size: 20px;
+    color: black;
+}
+
+.hi {
+    font-weight: 500;
+    font-size: 18px;
+}
+.p {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 15px;
+
+}
+
+.ul {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    line-break: auto;
+}
+
+.bc {
+    font-weight: bold;
+    line-height: 3px;
+}

@@ -1,0 +1,1 @@
+document.getElementById("notification-symbol").innerHTML= "&#x1F514;";
